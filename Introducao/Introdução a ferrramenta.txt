@@ -1,0 +1,12 @@
+De acordo com o material de apoio (W3SCHOOL) o Node.Js é um ambiente de servidor de código aberto que pode ser executado em várias plataformas e usa o JavaScript no servidor. 
+
+Usa a programação assíncrona diferente do PHP e ASP que antes para lidar com outra requisição é necessário AGUARDAR o sistema de arquivos e entrega a reposta ao cliente, já no Node.Js ao enviar a tarefa ao sistema de aquivos já esta apto a demandar outra tarefa eliminando a etapa de espera. 
+
+devem ser iniciados no servidor antes de fazerem qualquer efeito
+
+Obs: executar node + nome da pasta/nome do arquivo.js
+
+ node Introducao/umexemplodiferente.js
+
+ para saber o diretorio:
+    Digite dir

@@ -1,0 +1,9 @@
+Modulos são como bibliotecas em linguagem de programação
+Um conjunto de funções que se deseja incluir no aplicativo
+
+Existem modulos integrados e formas de incluir modulos.
+
+Para incluir = utilizar a função require()
+
+Para criar modulo:
+fazer script para exportação 

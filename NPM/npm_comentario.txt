@@ -1,0 +1,14 @@
+NPM 
+
+NPM é um gerenciador de pacotes para pacotes Node.js ou modulos, se preferir. 
+
+O NPM é instalado junto com o Node.js
+
+O que é um pacote? 
+
+    Um pacote no Node.js contém todos os arquivos necessários para um modulo. 
+
+    Modulos sao bibliotecas JavaScript.
+
+Baixar pacotes 
+    npm install upper-case

@@ -1,0 +1,8 @@
+O Modulo de URL integrado divide um endereço da web em partes legiveis 
+
+Utilize require()
+
+var url = require ('url');
+
+url.parse( ) -> método que retorna um objeto URL com cada parte do endereço como propriedades 
+

@@ -1,0 +1,5 @@
+Eventos Node 
+
+    Cada ação em um computador é um Evento. Como quando uma conexão é feita ou um arquivo é aberto. 
+
+    

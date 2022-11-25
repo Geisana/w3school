@@ -1,0 +1,12 @@
+Para manipular e trabalhar com upload de arquivos tem um modulo chamado "Formidavel"
+
+Pode ser baixado e instalado com npm install formidable
+
+depois de baixar o modulo formidable voce pode  incluir o modulo em qualquer aplicativo
+
+
+var formidable = require ('formidable')
+
+Etapa 1: criar um formulário de upload
+Crie um arquivo Node.js que grave um formulário HTML, com um campo de upload:
+

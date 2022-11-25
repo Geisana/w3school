@@ -1,0 +1,9 @@
+Node.js tem um modulo integrado chamado HTTP, que permite a   transferencia de dados do node.js pelo HTTP. 
+
+Utilizar require metodo:
+
+var http = require('http');
+
+Node.js como servidor web
+
+createServer() - metodo para criar um servidor HTTP
